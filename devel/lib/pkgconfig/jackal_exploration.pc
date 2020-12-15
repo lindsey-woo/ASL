@@ -1,0 +1,8 @@
+prefix=/home/administrator/workspaces/lindsey/devel
+
+Name: jackal_exploration
+Description: Description of jackal_exploration
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/administrator/workspaces/lindsey/devel/lib 
+Requires: 
