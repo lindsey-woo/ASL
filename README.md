@@ -40,6 +40,7 @@ From here, record the following topics using `rosbag record`:
 - /jackal_velocity_controller/odom
 - /tf
 - /tf_static
+
 Once offline, launch roscore, gmapping, and RViz. Then enter `rosbag play` and playback the recorded rosbag from earlier.
 
 If time errors occur, do the following.
